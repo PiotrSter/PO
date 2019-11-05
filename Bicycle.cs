@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace cw5
 {
-    class Car : Vehicle, IRideable
+    class Bicycle : Vehicle, IRideable
     {
         public void Ride()
         {
-            Console.WriteLine("Jadę samochodem.");
+            Console.WriteLine("Jadę rowerem.");
         }
     }
 }

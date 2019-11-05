@@ -4,30 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cw4
+namespace cw5
 {
-    class Osoba
+    class Osoba : IGitarzysta, ISkrzypek
     {
-        public string imie, nazwisko;
-        public int rokUrodzenia;
-        public string miejsceZamieszkania;
-        
-        public Osoba(string imie, string nazwisko, int rokUrodzenia, string miejsceZamieszkania)
+        public void Graj()
         {
-            this.imie = imie;
-            this.nazwisko = nazwisko;
-            this.rokUrodzenia = rokUrodzenia;
-            this.miejsceZamieszkania = miejsceZamieszkania;
+            Console.WriteLine("Gram ale nie wiem na czym.");
         }
 
-        protected void WypiszInfo()
+        void IGitarzysta.Graj()
         {
-            Console.WriteLine($"Imie: {imie}, Nazwisko: {nazwisko}, rok urodzenia:{rokUrodzenia}");
+            Console.WriteLine("Gram na gitarze.");
         }
 
-        public int ObliczWiek()
+        void ISkrzypek.Graj()
         {
-            return 2019 - rokUrodzenia;
+            Console.WriteLine("Gram na skrzypcach.");
         }
+
     }
 }

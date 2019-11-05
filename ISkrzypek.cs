@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace cw5
 {
-    class Car : Vehicle, IRideable
+    interface ISkrzypek
     {
-        public void Ride()
-        {
-            Console.WriteLine("Jadę samochodem.");
-        }
+        void Graj();
     }
 }
