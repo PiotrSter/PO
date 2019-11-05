@@ -4,24 +4,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cw5_cd
+namespace Zwierzaki
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Test obiekt1 = new Test();
-            Test obiekt2 = new Test();
-            Test obiekt3 = new Test();
+            Pies pies1 = new Pies();
+            Wilk wilk1 = new Wilk();
+            Orzel orzel1 = new Orzel();
+            Krokodyl krokodyl1 = new Krokodyl();
+            Rekin rekin1 = new Rekin();
 
-            obiekt1.liczba = 255;
-            obiekt1.poleTestowe.slowo = "słowo";
-            obiekt2 = obiekt1;
-            obiekt3 = obiekt1.GlebokaKopia();
-            obiekt1.liczba = 347;
-            obiekt1.poleTestowe.slowo = "kaczka";
-
-            Console.WriteLine($"obiekt1: {obiekt1.liczba}, obiekt2: {obiekt2.liczba}, obiekt3: {obiekt3.liczba}, słowo: {obiekt1.poleTestowe.slowo}");
+            Console.WriteLine("Pies:");
+            pies1.CoJem();
+            pies1.JakSiePoruszam();
+            Console.WriteLine("Wilk:");
+            wilk1.CoJem();
+            wilk1.JakSiePoruszam();
+            Console.WriteLine("Orzeł:");
+            orzel1.CoJem();
+            orzel1.JakSiePoruszam();
+            Console.WriteLine("Krokodyl:");
+            krokodyl1.CoJem();
+            krokodyl1.JakSiePoruszam();
+            Console.WriteLine("Rekin:");
+            rekin1.CoJem();
+            rekin1.JakSiePoruszam();
 
             Console.ReadKey();
         }
