@@ -1,0 +1,6 @@
+D:\Gr5\Cw6_1\Cw6_1\bin\Debug\Cw6_1.exe.config
+D:\Gr5\Cw6_1\Cw6_1\bin\Debug\Cw6_1.exe
+D:\Gr5\Cw6_1\Cw6_1\bin\Debug\Cw6_1.pdb
+D:\Gr5\Cw6_1\Cw6_1\obj\Debug\Cw6_1.csproj.CoreCompileInputs.cache
+D:\Gr5\Cw6_1\Cw6_1\obj\Debug\Cw6_1.exe
+D:\Gr5\Cw6_1\Cw6_1\obj\Debug\Cw6_1.pdb
