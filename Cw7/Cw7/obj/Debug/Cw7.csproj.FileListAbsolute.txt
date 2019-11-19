@@ -1,0 +1,7 @@
+D:\Gr5\Cw7\Cw7\bin\Debug\Cw7.exe.config
+D:\Gr5\Cw7\Cw7\bin\Debug\Cw7.exe
+D:\Gr5\Cw7\Cw7\bin\Debug\Cw7.pdb
+D:\Gr5\Cw7\Cw7\obj\Debug\Cw7.csprojAssemblyReference.cache
+D:\Gr5\Cw7\Cw7\obj\Debug\Cw7.csproj.CoreCompileInputs.cache
+D:\Gr5\Cw7\Cw7\obj\Debug\Cw7.exe
+D:\Gr5\Cw7\Cw7\obj\Debug\Cw7.pdb
