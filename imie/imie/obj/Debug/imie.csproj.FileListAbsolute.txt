@@ -1,0 +1,15 @@
+D:\Gr5\cw9\imie\imie\bin\Debug\imie.exe.config
+D:\Gr5\cw9\imie\imie\bin\Debug\imie.exe
+D:\Gr5\cw9\imie\imie\bin\Debug\imie.pdb
+D:\Gr5\cw9\imie\imie\obj\Debug\imie.csprojAssemblyReference.cache
+D:\Gr5\cw9\imie\imie\obj\Debug\MainWindow.g.cs
+D:\Gr5\cw9\imie\imie\obj\Debug\App.g.cs
+D:\Gr5\cw9\imie\imie\obj\Debug\imie_MarkupCompile.cache
+D:\Gr5\cw9\imie\imie\obj\Debug\imie_MarkupCompile.lref
+D:\Gr5\cw9\imie\imie\obj\Debug\MainWindow.baml
+D:\Gr5\cw9\imie\imie\obj\Debug\imie.g.resources
+D:\Gr5\cw9\imie\imie\obj\Debug\imie.Properties.Resources.resources
+D:\Gr5\cw9\imie\imie\obj\Debug\imie.csproj.GenerateResource.cache
+D:\Gr5\cw9\imie\imie\obj\Debug\imie.csproj.CoreCompileInputs.cache
+D:\Gr5\cw9\imie\imie\obj\Debug\imie.exe
+D:\Gr5\cw9\imie\imie\obj\Debug\imie.pdb

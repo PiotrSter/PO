@@ -1,0 +1,18 @@
+﻿<Window x:Class="imie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:imie"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="MyButton" Content="&#xD;&#xA;Uruchom" HorizontalAlignment="Left" Height="63" Margin="28,188,0,0" VerticalAlignment="Top" Width="134" Click="MyButton_Click"/>
+        <TextBox x:Name="MyTextBoxPobieranie" HorizontalAlignment="Left" Height="63" Margin="278,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" Text="&#xD;&#xA;Wprowadź imię&#xA;" AutomationProperties.HelpText="Wprowadź imię" AutomationProperties.IsColumnHeader="True" IsUndoEnabled="False"/>
+        <TextBox x:Name="MyTextBoxWyswietlanie" HorizontalAlignment="Left" Height="63" Margin="533,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" IsReadOnlyCaretVisible="True" IsEnabled="False" IsReadOnly="True" IsUndoEnabled="False"/>
+        <Label x:Name="PodajImie" Content="Podaj imie:" HorizontalAlignment="Left" Height="43" Margin="278,119,0,0" VerticalAlignment="Top" Width="133"/>
+        <Label x:Name="Wyswietl" Content="Wyswietl:" HorizontalAlignment="Left" Height="43" Margin="533,119,0,0" VerticalAlignment="Top" Width="207"/>
+        <Button Content="&#xD;&#xA;Wyczysc" HorizontalAlignment="Left" Height="74" Margin="28,297,0,0" VerticalAlignment="Top" Width="134" Click="Button_Click"/>
+
+    </Grid>
+</Window>
