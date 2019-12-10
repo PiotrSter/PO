@@ -1,0 +1,15 @@
+D:\Gr5\Cw10\Cw10\bin\Debug\Cw10.exe.config
+D:\Gr5\Cw10\Cw10\bin\Debug\Cw10.exe
+D:\Gr5\Cw10\Cw10\bin\Debug\Cw10.pdb
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10.csprojAssemblyReference.cache
+D:\Gr5\Cw10\Cw10\obj\Debug\MainWindow.g.cs
+D:\Gr5\Cw10\Cw10\obj\Debug\App.g.cs
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10_MarkupCompile.cache
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10_MarkupCompile.lref
+D:\Gr5\Cw10\Cw10\obj\Debug\MainWindow.baml
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10.g.resources
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10.Properties.Resources.resources
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10.csproj.GenerateResource.cache
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10.csproj.CoreCompileInputs.cache
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10.exe
+D:\Gr5\Cw10\Cw10\obj\Debug\Cw10.pdb

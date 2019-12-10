@@ -1,0 +1,21 @@
+﻿<Window x:Class="Cw10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cw10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="liczba1" HorizontalAlignment="Left" Height="39" Margin="29,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" TextChanged="Liczba1_TextChanged"/>
+        <TextBox x:Name="liczba2" HorizontalAlignment="Left" Height="39" Margin="219,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="wynik" HorizontalAlignment="Left" Height="39" Margin="449,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" TextChanged="Wynik_TextChanged" IsReadOnly="true"/>
+        <ComboBox HorizontalAlignment="Left" Height="21" Margin="29,112,0,0" VerticalAlignment="Top" Width="80">
+            <Button x:Name="dodawanie" Content="&#xD;&#xA;+&#xD;&#xA;" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="80" Click="Dodawanie_Click"/>
+            <Button x:Name="odejmowanie" Content="&#xD;&#xA;-" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="80" Click="Odejmowanie_Click"/>
+            <Button x:Name="mnozenie" Content="&#xD;&#xA;*" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="80" Click="Mnozenie_Click"/>
+            <Button x:Name="dzielenie" Content="&#xD;&#xA;/" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="80" Click="Dzielenie_Click"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
